@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Trial By Fire"
-date:       2019-12-12 02:58:06 +0000
+date:       2019-12-11 21:58:07 -0500
 permalink:  trial_by_fire
 ---
 
