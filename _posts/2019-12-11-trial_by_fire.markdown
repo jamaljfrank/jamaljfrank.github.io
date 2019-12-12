@@ -12,9 +12,9 @@ Finishing my first Flatiron project really challenged my patience and ingenuity.
 ![](https://i.imgur.com/waKxOfT.jpg)
 
 
-First, get invested. Whats something you're really into right now? Whats something you could use?
+First, get invested. What's something you're really into right now? What's something you could use?
 
-At the time I started my project, I was really into a video game called Fire Emblem. Fire Emblem is a tactical Role Playing Game. It has a lot of strategy involved so I'd constantly be googling to strategize. How could I make a CLI Gem around this? Easy. Make a scraper that takes some stats I'm always looking up and have them returned based on Job Class input. To be precise, I wanted to input "Archer" or "Thief" and receive all the skills of said Job Class. #ProudNerd
+At the time I started my project, I was really into a video game called Fire Emblem. Fire Emblem is a tactical Role Playing Game. It has a lot of strategy involved so I'd constantly be googling details to strategize. How could I make a CLI Gem around this? Easy. Make a scraper that takes some stats I'm always looking up and have them returned based on a Job Class input. To be precise, I wanted to input "Archer" or "Thief" and receive all the skills of said Job Class. #ProudNerd
 
 
 ![](https://i.imgur.com/YQSQTHX.png)
