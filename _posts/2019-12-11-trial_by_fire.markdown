@@ -42,7 +42,7 @@ There's an answer out there. Just a matter of finding it or making it yourself.
 One problem I had to face was writing methods that would assign nil values to my "Job" class if the desired data was missing from the site. Here's how I solved it: 
 
 
-![](https://i.imgur.com/En9MJHf.png)
+![](https://i.imgur.com/SR41h0W.png)
 
 
 Lastly, find ways to optimize. At the time, I was in a rush to finish my project and I could've finished it much sooner but I just wouldn't be proud of it. The first version of my product would take a solid 5 seconds to load up and it was ghastly. Ultimately, I realized it did this because I'd have my gem scrape multiple URLS (36, to be exact) and store the data. I got around this by having the user input linked to a string which would then be interpolated into a URL that needed to be accessed. 
