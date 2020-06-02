@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Simple Nesting "
-date:       2020-06-02 12:06:57 +0000
+date:       2020-06-02 08:06:58 -0400
 permalink:  simple_nesting
 ---
 
@@ -40,16 +40,14 @@ Why am I nesting again?
 
 It's about the URLs, methods and permissions.
 
-Nesting the adventures resource under users gives me the following paths:
-
-user_adventures_path(user):
+Nesting the adventures resource under users gives me the user_adventures_path(user):
 
 
 ```
 '/users/:user_id/adventures'    
 ```
 
-adventures_path:
+in addition to the adventures_path:
 
 ```
 '/adventures'
