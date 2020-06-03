@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Clients Request and Servers Respond"
-date:       2020-06-03 17:32:02 +0000
+date:       2020-06-03 13:32:03 -0400
 permalink:  clients_request_and_servers_respond
 ---
 
 
 The way we interact with the internet has a cycle to it. A fundamental flow that persists between clients and servers. 
-For better understandign, I'm going to break it down into 5 steps.
+For a better understanding, I'm going to break it down into 5 steps.
 
 **Step One: The Client and I**
 I want to watch Netflix. For that, I need a client which can be an internet browser like Chrome or a phone app. 
