@@ -16,6 +16,12 @@ I want to watch Netflix. For that, I need a client which can be an internet brow
 A HTTP request is a string that gets sent to a server. Its makeup specifies the details of the request. 
 For instance, 'netflix.com/browse' and 'netflix.com/YourAccount are, respectively, requesting to see a catalogue and the details of my account. 
 
+Moreover, requests can be categorized into four methods, GET, POST, PUT, and DELETE.
+
+A GET request refers to 'getting' information while a POST is used to submit information like creating an account.
+
+A PUT refers to editing an existing resource like changing your profile picture and DELETE does as the name implies.
+
 **Step Three: "Let me check the back room..."**
 Once we hit enter, the request hits a server's router. The router then matches the URL to the corresponding controller and action. Let's say there's a netflix controller. In reference to the mentioned URLs, we could be calling a 'browse' action or 'youraccount' action.
 
